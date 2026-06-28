@@ -27,7 +27,7 @@ get_Todays_Task:
 arrived_At_Task:"https://manit-clean-track-1.onrender.com/api/driver/arrived",
 completed_Task:"https://manit-clean-track-1.onrender.com/api/driver/completed",
 
-completed_Task: "https://manit-clean-track-1.onrender.com/api/driver/completed",
+// completed_Task: "https://manit-clean-track-1.onrender.com/api/driver/completed",
 
 
 create_Location:"https://manit-clean-track-1.onrender.com/api/location/create",
